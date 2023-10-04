@@ -1,6 +1,6 @@
 # Remote Access and FileSystem
 
-### Commands with no arguments
+### Command with no arguments
 *cd* command:
 
 ![Image](1.png) 
@@ -19,3 +19,8 @@
 
 - **cat** with no arguments waits for a keyboard input until an end-of-file signal
 
+###  Command with path to directory
+
+*cd* command: 
+
+![Ima
