@@ -1,11 +1,11 @@
 # Remote Access and FileSystem
 
 ### Commands with no arguments
-- *cd* command
+- *cd* command\\
 ![Image](1.png)
 
-- *ls* command
+- *ls* command\\
 ![Image](2.png)
 
-- *cat* command
+- *cat* command\\
 - ![Image](3.png)
