@@ -91,9 +91,7 @@ public class StringServer {
 
 **Login**
 
-![Image](path_key.png)
-
-\\
+![Image](login.png)
 
 As seen in the screenshot, there was no password prompt and I was able to login directly using my key
 
