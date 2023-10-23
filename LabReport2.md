@@ -65,7 +65,7 @@ public class StringServer {
 - The messageBuffer is updated with the message "1. Hello" (appended to the empty buffer).
 - The response will be "1. Hello."
 
-**Second request: "Hello!"**
+**Second request: "How are you?"**
 
 ![Image](message2.png)
 
