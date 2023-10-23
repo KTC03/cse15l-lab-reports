@@ -58,7 +58,7 @@ Example 3: Using cd with a File Path
 ![Image](3.png)
 
 - Working Directory: /home
-- Output: An error message - "No such file or directory."
+- Output: No output
 - Explanation: Running cat without any arguments is incorrect as it expects a file to be specified. Hence, it's an error.
 
 2: Using cat with a Directory Path
