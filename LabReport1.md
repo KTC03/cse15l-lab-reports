@@ -7,7 +7,7 @@ In this lab report, I will go through the fundamental filesystem commands cd, ls
 
 ![Image](1.png)
 
-- Working Directory: /home
+- Working Directory: /home/lecture1
 - Output: No output
 - Explanation: Running cd without any arguments takes you to your home directory. 
 
