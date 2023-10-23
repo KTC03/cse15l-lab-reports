@@ -46,6 +46,9 @@ public class StringServer {
     }
 }
 ```
-### Usge of /add-message 
+### Using /add-message 
+1. First message: "Hello!"
+
+!Image[message1.png]
 
 
