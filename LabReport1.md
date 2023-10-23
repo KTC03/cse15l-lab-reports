@@ -1,6 +1,6 @@
 # Lab 1: Remote Access and FileSystem
 
-In this lab report, I go through some fundamental filesystem commands, specifically cd, ls, and cat. We'll explore how these commands work with various arguments and scenarios.
+In this lab report, I will go through the fundamental filesystem commands cd, ls, and cat. We'll explore how these commands work with various arguments and scenarios.
 
 ### cd Command
 1: Using cd with No Arguments
