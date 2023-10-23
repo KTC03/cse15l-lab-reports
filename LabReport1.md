@@ -19,7 +19,7 @@ In this lab report, I will go through the fundamental filesystem commands cd, ls
 - Output: No output.
 - Explanation: When you use cd with a directory path, you change your working directory to the specified directory. In this case, we navigated to Lecture1.
 
-Example 3: Using cd with a File Path
+3: Using cd with a File Path
 
 ![Image](8.png)
 
