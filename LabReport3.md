@@ -1,5 +1,8 @@
 # Part I: Bugs
-- failure inducing input:
+File: ArrayExamples.java
+Buggy Method: reverseInPlace
+
+- failure inducing input: {1, 2, 3, 4, 5}
 ```
 @Test
   public void testReverseInPlace() {
@@ -10,14 +13,14 @@
 }
 ```
 
-- input that does not induce failure:
+- input that does not induce failure: {1, 1, 1, 1, 1}
 ```
 @Test
-public void testReverseInPlaceNoFailure() {
-  int[] arr = {5, 4, 3, 2, 1};
-  ArrayExamples.reverseInPlace(arr);
-  int[] expected = {5, 4, 3, 2, 1};
-  assertArrayEquals(expected, arr);
+  public void testReverseInPlace() {
+    int[] arr = {1, 1, 1, 1, 1};
+    ArrayExamples.reverseInPlace(arr);
+    int[] expected = {1, 1, 1, 1, 1};
+    assertArrayEquals(expected, arr);
 }
 ```
 
