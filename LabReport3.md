@@ -25,7 +25,7 @@ Buggy Method: reverseInPlace
 ```
 
 - screenshot:
-![Image](symptoms1.png)
+![Image](symptomsACTUAL.png)
 
 **Before Code (Buggy):**
 ```
