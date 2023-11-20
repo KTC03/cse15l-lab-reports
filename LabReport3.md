@@ -1,5 +1,7 @@
 # Part I: Bugs
+
 File: ArrayExamples.java
+
 Buggy Method: reverseInPlace
 
 - failure inducing input: {1, 2, 3, 4, 5}
