@@ -17,15 +17,20 @@
 1. vim ListExamples.java
 2. <H><14><j><$> - get to the end of line where an error exists
 3. <left><left><i><del><del><esc> - move cursor and then delete the error that prepended instead of appended the value
+   
 ![Image](step7.1.png)
-5. <G><6><up><$><6><left>  - get to error and incorrect variable name causing an infinite loop 
-6. <r><2> - replace the 1 in index1 to become index2
+
+4. <G><6><up><$><6><left>  - get to error and incorrect variable name causing an infinite loop 
+5. <r><2> - replace the 1 in index1 to become index2
+
 ![Image](step7.2.png)
-8. <:wq> - save and quit file
+
+6. <:wq> - save and quit file
 
 ### Step 8: Run tests (passed)
 1. <up><up><enter> - command "javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java" was 2 up in my history
 2. <up><up><up><enter> - command "java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests" was 3 up in my history
+
 ![Image](step8.png)
 
 ### Step 9: Commit and Push changes 
