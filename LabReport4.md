@@ -21,7 +21,7 @@
 ![Image](step7.1.png)
 
 4. \<G>\<6>\<up><$>\<6>\<left>  - get to error and incorrect variable name causing an infinite loop 
-5. <r><2> - replace the 1 in index1 to become index2
+5. \<r>\<2> - replace the 1 in index1 to become index2
 
 ![Image](step7.2.png)
 
@@ -31,7 +31,7 @@
 1. \<up>\<up>\<enter> - command "javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java" was 2 up in my history
 2. \<up>\<up>\<up>\<enter> - command "java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests" was 3 up in my history
 
-![Image](step 8.png)
+![Image](step8.png)
 
 ### Step 9: Commit and Push changes 
 1. git add ./ListExamples.java - stage changes made to the file
