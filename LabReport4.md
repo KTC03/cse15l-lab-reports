@@ -15,8 +15,8 @@
 
 ### Step 7: Editing code to fix failing test
 1. vim ListExamples.java
-2. <H><14><j><$> - get to the end of line where an error exists
-3. test test <left><left><i><del><del><esc> - move cursor and then delete the error that prepended instead of appended the value
+2. <H> <14> <j> <$> - get to the end of line where an error exists
+3. <left> <left> <i> <del> <del> <esc> - move cursor and then delete the error that prepended instead of appended the value
    
 ![Image](step7.1.png)
 
