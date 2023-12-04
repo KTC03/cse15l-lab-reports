@@ -16,7 +16,7 @@
 ### Step 7: Editing code to fix failing test
 1. vim ListExamples.java
 2. <H><14><j><$> - get to the end of line where an error exists
-3. <h><h><i><del><del><esc> - move cursor and then delete the error that prepended instead of appended the value
+3. <left><left><i><del><del><esc> - move cursor and then delete the error that prepended instead of appended the value
 ![Image](step7.1.png)
 5. <G><6><up><$><6><left>  - get to error and incorrect variable name causing an infinite loop 
 6. <r><2> - replace the 1 in index1 to become index2
